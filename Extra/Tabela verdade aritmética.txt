@@ -1,0 +1,27 @@
+Tabela verdade aritmética
+
+ou
+//booleana
+true  true  true
+true  false true
+false true  true
+false false false
+
+//aritmética
+1 + 1 = 1 == qualquer coisa diferente de zero
+1 + 0 = 1 == zero é false, qualquer outro valor é true
+0 + 1 = 1
+0 + 0 = 0
+
+e
+true  true  true
+true  false false
+false true  false
+false false false
+
+//e = . *
+1 * 1 = 1
+1 * 0 = 0
+0 * 1 = 0
+0 * 0 = 0
+
