@@ -13,7 +13,7 @@ aluno[4] = "Daniel";
 chamada[4] = false;
 aluno[5] = "Emerson";
 chamada[5] = true;
-aluno[6] = "Erick";
+aluno[6] = "Erik";
 chamada[6] = true;
 aluno[7] = "Everton";
 chamada[7] = true;
@@ -33,7 +33,7 @@ aluno[14] = "Jenifer";
 chamada[14] = true;
 aluno[15] = "Jéssica";
 chamada[15] = true;
-aluno[16] = "João Victor";
+aluno[16] = "João Vitor";
 chamada[16] = true;
 aluno[17] = "Karine";
 chamada[17] = true;
@@ -90,7 +90,7 @@ console.log(presente(chamada[quem]));
 */
 /*
 for (let nro = 0; nro < 36; nro++)
-  if (aluno[nro] == "Luan Figueiredo") {
+  if (aluno[nro] == "Luan") {
     console.log("luan está no índice", nro, "e", presente(chamada[nro]));
   }
 */
